@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+
+# Node
+node_modules/
+.next/
+.next-cache/
+yarn.lock
+pnpm-lock.yaml
+npm-debug.log*
+
+# Data
+/data/
+/workspace/data/
+backend/data/
+worker/data/
+reports/
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
